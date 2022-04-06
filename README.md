@@ -1,7 +1,5 @@
 # TypeScript_Exercise
 
-# TypeScript Exercise
-
 ## Exercise 1
 
 Create a typescript function which accept matrix as per Input and return the matrix as per Output.
